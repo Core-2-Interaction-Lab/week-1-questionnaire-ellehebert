@@ -37,3 +37,16 @@ h6 {
 h1 {
     font-size: 120px;
 }
+
+
+
+div {
+	padding: 20px;
+}
+
+
+section:nth-child(2),
+section:nth-child(3) {
+	display: flex;
+	margin-top: 20px;
+}
