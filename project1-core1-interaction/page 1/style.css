@@ -1,0 +1,209 @@
+body {
+    background-color: #A55491;
+}
+
+
+.back-button {
+    /* BACK */
+    position: absolute;
+    width: 89px;
+    height: 63px;
+    left: 108px;
+    top: 98px;
+    top: 98px;
+    
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: 0.02em;
+    border-style: solid;
+    border-color: #262626;
+    
+    color: #262626;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+.next-button {
+    /* NEXT */
+    position: absolute;
+    width: 89px;
+    height: 63px;
+    left: 1337px;
+    top: 98px;
+    
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: 0.02em;
+    border-style: solid;
+    border-color: #262626;
+    
+    color: #262626;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+.text1 {
+    /* In life, the number of beginnings is exactly equal to the number of endings: */
+    position: absolute;
+    width: 1302px;
+    height: 85px;
+    left: 97px;
+    top: 255px;
+
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 85%;
+    /* identical to box height, or 85px */
+
+    text-align: justify;
+    letter-spacing: 0.01em;
+
+    color: #262626;
+}
+
+
+.text2 {
+    /* no one has yet to begin a life who will not end it. */
+    position: absolute;
+    width: 1302px;
+    height: 459px;
+    left: 95px;
+    top: 412px;
+
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 250px;
+    line-height: 75%;
+    /* or 188px */
+
+    text-align: justify;
+    text-transform: uppercase;
+
+    color: #262626;
+}
+
+
+.text3 {
+    /* In poetry: */
+    position: absolute;
+    width: 1305px;
+    height: 210px;
+    left: 108px;
+    top: 849px;
+    
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 450px;
+    line-height: 83%;
+    /* or 373px */
+    
+    text-transform: uppercase;
+    
+    color: #262626;
+}
+
+
+.text4 {
+    /* the number of beginnings so far exceeds the number of endings that we cannot even conceive of it. Not every poem is finished—one poem is abandoned, another catches fire and is carried away by the wind, which may be an ending, but it is the ending of a poem without an end. Paul Valéry, the French poet and thinker, once said that */
+    position: absolute;
+    width: 932px;
+    height: 156px;
+    left: 284px;
+    top: 1250px;
+    
+    font-family: 'Trade Gothic Next LT Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* or 38px */
+    
+    text-align: justify;
+    letter-spacing: 0.05em;
+    
+    color: #262626;
+}
+
+
+.text5 {
+    /* no poem is ever ended, that every poem is merely abandoned. */
+    position: absolute;
+    width: 1300px;
+    height: 564px;
+    left: 112px;
+    top: 1452px;
+
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 250px;
+    line-height: 75%;
+    /* or 188px */
+
+    text-align: justify;
+    text-transform: uppercase;
+
+    color: #262626;
+}
+
+
+.text6 {
+    /* This saying is also attributed to Stéphane Mallarmé, for where quotations begin is in a cloud. */
+    position: absolute;
+    width: 1270px;
+    height: 168px;
+    left: 113px;
+    top: 2077px;
+
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 84%;
+    /* or 84px */
+
+    text-align: justify;
+
+    color: #262626;
+}
+
+
+.text7 {
+    /* Paul Valéry also described his perception of first lines so vividly, and to my mind so accurately, that i have never forgotten it: the opening line of a poem, he said, is like finding a fruit on the ground, a piece of fallen fruit you have never seen before, and the poet’s task is to create the tre from which such a fruit would fall. In the beginning was the Word. Western civilization rests upon those words. And yet there is a lively group of thinkers who believe that in the beginning was the act, that nothing can precede action. */
+    position: absolute;
+    width: 932px;
+    height: 183px;
+    left: 284px;
+    top: 2279px;
+    bottom: 123px;
+
+    font-family: 'Trade Gothic Next LT Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* or 38px */
+
+    text-align: justify;
+    letter-spacing: 0.05em;
+
+    color: #262626;
+}

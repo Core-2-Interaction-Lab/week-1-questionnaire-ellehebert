@@ -1,0 +1,59 @@
+body {
+    background-color: #A55491;
+}
+
+
+.back-button {
+    /* BACK */
+    position: absolute;
+    width: 89px;
+    height: 63px;
+    left: 108px;
+    top: 98px;
+    top: 98px;
+    
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: 0.02em;
+    border-style: solid;
+    border-color: #262626;
+    
+    color: #262626;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+
+
+
+}
+
+
+.next-button {
+    /* NEXT */
+    position: absolute;
+    width: 89px;
+    height: 63px;
+    left: 1337px;
+    top: 98px;
+    
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: 0.02em;
+    border-style: solid;
+    border-color: #262626;
+    
+    color: #262626;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}

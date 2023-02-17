@@ -1,0 +1,163 @@
+body {
+    background-color: #F0B9D0;
+}
+
+
+.back-button {
+    /* BACK */
+    position: absolute;
+    width: 89px;
+    height: 63px;
+    left: 108px;
+    top: 98px;
+    top: 98px;
+    
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: 0.02em;
+    border-style: solid;
+    border-color: #262626;
+    
+    color: #262626;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+
+
+
+}
+
+
+.next-button {
+    /* NEXT */
+    position: absolute;
+    width: 89px;
+    height: 63px;
+    left: 1337px;
+    top: 98px;
+    
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: 0.02em;
+    border-style: solid;
+    border-color: #262626;
+    
+    color: #262626;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.text1 {
+    /* Everyone knows that if you query poets about how their poems begin, the answer is always the same: */
+    position: absolute;
+    width: 1229px;
+    height: 170px;
+    left: 97px;
+    top: 237px;
+
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 85%;
+    /* or 85px */
+
+    text-align: justify;
+    letter-spacing: 0.01em;
+
+    color: #262626;
+}
+
+.text2 {
+    /* a phrase, a line, a scrap of language, a rhythm, an image, something seen, heard, witnessed, or imagined. */
+    position: absolute;
+    width: 1311px;
+    height: 1726px;
+    left: 98px;
+    top: 490px;
+
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 250px;
+    line-height: 75%;
+    /* or 188px */
+
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    color: #262626;
+}
+
+.text3 {
+    /* And the lesson is always the same, and young poets recognize this to be one of the most important lessons they can learn: */
+    position: absolute;
+    width: 1311px;
+    height: 170px;
+    left: 98px;
+    top: 2261px;
+
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 85%;
+    /* or 85px */
+
+    text-align: justify;
+    letter-spacing: 0.01em;
+
+    color: #262626;
+}
+
+.text4 {
+    /* if you have any idea for a poem, an exact grid of intent, you are on the wrong path, a dead-end alley, at the top of a cliff you haven’t even climbed. */
+    position: absolute;
+    width: 1311px;
+    height: 1118px;
+    left: 98px;
+    top: 2521px;
+
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 250px;
+    line-height: 75%;
+    /* or 188px */
+
+    text-align: justify;
+    text-transform: uppercase;
+
+    color: #262626;
+    }
+
+.text5 {
+    /* This is a lesson that can only be learned by trial and error. */
+    position: absolute;
+    width: 1311px;
+    height: 78px;
+    left: 98px;
+    top: 3724px;
+
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 78%;
+    /* identical to box height, or 78px */
+
+    text-align: justify;
+
+    color: #262626;
+}
