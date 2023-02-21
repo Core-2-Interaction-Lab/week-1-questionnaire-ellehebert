@@ -18,7 +18,7 @@ body {
     font-size: 60px;
     line-height: 72px;
     letter-spacing: 0.02em;
-    border-style: solid;
+    border: 3px solid #262626;
     border-color: #262626;
     
     color: #262626;
@@ -47,7 +47,7 @@ body {
     font-size: 60px;
     line-height: 72px;
     letter-spacing: 0.02em;
-    border-style: solid;
+    border: 3px solid #262626;
     border-color: #262626;
     
     color: #262626;
@@ -59,107 +59,268 @@ body {
 }
 
 .text1 {
-    /* No breath before act, no thought before act, no pervasive love before some kind of act. */
-    position: absolute;
-    width: 1302px;
-    height: 153px;
-    left: 89px;
-    top: 237px;
+/* Everyone knows that if you query poets about how their poems begin, the answer is always the same: */
+position: absolute;
+width: 1229px;
+height: 51px;
+left: 108px;
+top: 253px;
 
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 100px;
-    line-height: 85%;
-    /* or 85px */
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 85%;
+/* identical to box height, or 51px */
 
-    text-align: justify;
-    letter-spacing: 0.01em;
+text-align: justify;
+letter-spacing: 0.01em;
 
-    color: #262626;
+color: #262626;
 }
 
 .text2 {
-    /* I believe the poem is an act of the mind. */
-    position: absolute;
-    width: 1316px;
-    height: 337px;
-    left: 89px;
-    top: 468px;
+/* a phrase, a line, a scrap of language, a rhythm, an image, something seen, heard, witnessed, or imagined. */
+position: absolute;
+width: 1311px;
+height: 1137px;
+left: 108px;
+top: 336px;
 
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 250px;
-    line-height: 75%;
-    /* or 188px */
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 85%;
+/* or 128px */
 
-    text-align: justify;
-    text-transform: uppercase;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 
-    color: #262626;
+color: #262626;
 }
 
 .text3 {
-    /* I think it is easier to talk about the end of a poem than it is to talk about its beginning. Because the poem ends on the page, but it begins off the page, it begins in the mind. The mind acts, the mind wills a poem, often against our own will; somehow this happens, somehow a poem gets written in the middle of a chaotic holiday party that has just run out of ice, and it's your house.  */
-    position: absolute;
-    width: 927px;
-    height: 190px;
-    left: 287px;
-    top: 912px;
+/* And the lesson is always the same, and young poets recognize this to be one of the most important lessons they can learn: */
+position: absolute;
+width: 1311px;
+height: 51px;
+left: 108px;
+top: 1532px;
 
-    font-family: 'Trade Gothic Next LT Pro';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 150%;
-    /* or 38px */
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 85%;
+/* identical to box height, or 51px */
 
-    text-align: justify;
-    letter-spacing: 0.05em;
+text-align: justify;
+letter-spacing: 0.01em;
 
-    color: #262626;
+color: #262626;
 }
 
 .text4 {
-    /* An act of the mind. */
-    position: absolute;
-    width: 1002px;
-    height: 676px;
-    left: 249px;
-    top: 1205px;
+/* if you have any idea for a poem, an exact grid of intent, you are on the wrong path, a dead-end alley, at the top of a cliff you haven’t even climbed. */
+position: absolute;
+width: 1311px;
+height: 439px;
+left: 108px;
+top: 1635px;
 
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 450px;
-    line-height: 75%;
-    /* or 338px */
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 85%;
+/* or 128px */
 
-    text-align: center;
-    letter-spacing: 0.01em;
-    text-transform: uppercase;
+text-align: justify;
+text-transform: uppercase;
 
-    color: #262626;
+color: #262626;
 }
 
 .text5 {
-    /* To move, to make happen, to make manifest. Be an act of Congress. A state of real existence rather than possibility. And poets love possibility! They love to wonder and explore. Hard lot! But the poem, no matter how full of possibility, has to exist! To conduct oneself, to behave. How a poem acts marks its individual character. A poem by Glandolyn Blue does not sound like a poem by Timothy Sure. to pretend, feign, impersonate. That, too, yes and always, because self-consciousness is its own pretension, and has been from its beginning; the human mind is capable of a great elastic theater. As the poet Ralph Angel puts it, “The poem is an interpretation of weird theatrical shit.” the weird theatrical shit is what goes on around us every day of our lives; an animal of only instinct, Johnny Ferret, has in his actions drama, but no theater; theater requires that you draw a circle around the action and observe it from outside the circle; in other words, self-consciousness is theater. */
-    position: absolute;
-    width: 927px;
-    height: 494px;
-    left: 287px;
-    top: 1990px;
+/* This is a lesson that can only be learned by trial and error. */
+position: absolute;
+width: 1311px;
+height: 47px;
+left: 108px;
+top: 2167px;
 
-    font-family: 'Trade Gothic Next LT Pro';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 150%;
-    /* or 38px */
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 78%;
+/* identical to box height, or 47px */
 
-    text-align: justify;
-    letter-spacing: 0.05em;
+text-align: justify;
 
-    color: #262626;
+color: #262626;
+}
+
+.text6 {
+/* I believe many */
+position: absolute;
+width: 510px;
+height: 124px;
+left: 108px;
+top: 2257px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 83%;
+/* or 124px */
+
+letter-spacing: 0.02em;
+text-transform: uppercase;
+
+color: #262626;
+}
+
+.text7 {
+/* fine poems */
+position: absolute;
+width: 510px;
+height: 124px;
+left: 108px;
+top: 2400px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 83%;
+/* or 124px */
+
+letter-spacing: 0.02em;
+text-transform: uppercase;
+
+color: #262626;
+}
+
+.text8 {
+/* begin with ideas. */
+position: absolute;
+width: 510px;
+height: 124px;
+left: 408px;
+top: 2540px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 83%;
+/* or 124px */
+
+letter-spacing: 0.02em;
+text-transform: uppercase;
+
+color: #262626;
+}
+
+.text9 {
+/* but if you tell */
+position: absolute;
+width: 510px;
+height: 124px;
+left: 750px;
+top: 2690px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 83%;
+/* or 124px */
+
+text-transform: uppercase;
+
+color: #262626;
+}
+
+.text10 {
+/* too many */
+position: absolute;
+width: 510px;
+height: 124px;
+left: 578px;
+top: 2840px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 83%;
+/* or 124px */
+
+text-transform: uppercase;
+
+color: #262626;
+}
+
+.text11 {
+/* faces this, */
+position: absolute;
+width: 510px;
+height: 124px;
+left: 348px;
+top: 2990px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 83%;
+/* or 124px */
+
+text-transform: uppercase;
+
+color: #262626;
+}
+
+.text12 {
+/* or tell it too loudly, */
+position: absolute;
+width: 1245px;
+height: 124px;
+left: 496px;
+top: 3140px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 83%;
+/* or 124px */
+
+text-transform: uppercase;
+
+color: #262626;
+}
+
+.text13 {
+/* they will get the wrong idea. */
+position: absolute;
+width: 1305px;
+height: 136px;
+left: 111px;
+top: 3290px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 90.5%;
+/* identical to box height, or 136px */
+
+text-transform: uppercase;
+
+color: #262626;
 }

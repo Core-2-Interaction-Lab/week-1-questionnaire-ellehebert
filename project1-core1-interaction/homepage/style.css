@@ -39,7 +39,7 @@ body {
     font-family: 'Bee Four';
     font-style: normal;
     font-weight: 400;
-    font-size: 100px;
+    font-size: 60px;
     line-height: 125%;
     /* or 125px */
     
@@ -55,13 +55,13 @@ body {
     width: 1112px;
     height: 79px;
     left: 93px;
-    top: 587px;
+    top: 520px;
     padding-top: 100px;
 
     font-family: 'Trade Gothic Next LT Pro';
     font-style: normal;
     font-weight: 400;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 125%;
     /* or 31px */
 
@@ -77,7 +77,7 @@ body {
     width: 89px;
     height: 63px;
     left: 1317px;
-    top: 688px;
+    top: 620px;
     
     font-family: 'Bee Four';
     font-style: normal;
@@ -85,7 +85,7 @@ body {
     font-size: 60px;
     line-height: 72px;
     letter-spacing: 0.02em;
-    border-style: solid;
+    border: 3px solid #262626;
     border-color: #262626;
     
     color: #262626;

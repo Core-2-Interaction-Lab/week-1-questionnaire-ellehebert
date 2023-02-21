@@ -18,7 +18,7 @@ body {
     font-size: 60px;
     line-height: 72px;
     letter-spacing: 0.02em;
-    border-style: solid;
+    border: 3px solid #262626;
     border-color: #262626;
     
     color: #262626;
@@ -47,7 +47,7 @@ body {
     font-size: 60px;
     line-height: 72px;
     letter-spacing: 0.02em;
-    border-style: solid;
+    border: 3px solid #262626;
     border-color: #262626;
     
     color: #262626;
@@ -59,84 +59,189 @@ body {
 }
 
 .text1 {
-/* I will tell you what I miss: */
-    position: absolute;
-    width: 1243px;
-    height: 281px;
-    left: 97px;
-    top: 237px;
+/* I have flipped through books, reading hundreds of opening and closing lines, */
+position: absolute;
+width: 1306px;
+height: 51px;
+left: 111px;
+top: 253px;
 
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 250px;
-    line-height: 83%;
-    /* or 207px */
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 85%;
+/* identical to box height, or 51px */
 
-    text-transform: uppercase;
+letter-spacing: 0.01em;
 
-    color: #262626;
+color: #262626;
 }
 
 .text2 {
-/* I miss watching a movie and at the end, huge scrolled words come on the screen and say: */
-    position: absolute;
-    width: 1149px;
-    height: 179px;
-    left: 101px;
-    top: 460px;
+/* across ages */
+position: absolute;
+width: 424px;
+height: 178px;
+left: 117px;
+top: 367px;
 
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 100px;
-    line-height: 85%;
-    /* or 85px */
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 83%;
+/* or 124px */
 
-    text-align: justify;
-    letter-spacing: 0.01em;
+letter-spacing: 0.02em;
+text-transform: uppercase;
 
-    color: #262626;
+color: #262626;
 }
 
 .text3 {
-/* The End */
-    position: absolute;
-    width: 825px;
-    height: 446px;
-    left: 338px;
-    top: 824px;
+/* across cultures */
+position: absolute;
+width: 970px;
+height: 209px;
+left: 117px;
+top: 519px;
 
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 650px;
-    line-height: 83%;
-    /* or 539px */
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 83%;
+/* or 124px */
 
-    text-align: center;
-    text-transform: uppercase;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 
-    color: #262626;
+color: #262626;
 }
 
 .text4 {
-/* I miss finishing a novel and there on the last page, at a discrete distance from the last words of the last sentence, are the dark letters spelling */
-    position: absolute;
-    width: 1290px;
-    height: 170px;
-    left: 105px;
-    top: 1380px;
+/* across aesthetic schools */
+position: absolute;
+width: 1266px;
+height: 111px;
+left: 117px;
+top: 667px;
 
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 100px;
-    line-height: 85%;
-    /* or 85px */
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 83%;
+/* or 124px */
 
-    text-align: justify;
-    letter-spacing: 0.01em;
+letter-spacing: 0.05em;
+text-transform: uppercase;
 
-    color: #262626;
+color: #262626;
+}
+
+.text5 {
+/* and I have discovered that first lines are remarkably similar, even repeated, and that last lines are remarkably similar, even repeated. Of course in all cases they remain remarkably distinct, because the words belong to completely different poems. And I began to realize, reading these first and last lines, that there are not only the first and last lines of the lifelong sentence we each speak but also the first and last lines of the long piece of language delivered to use by others, by those we listen to. And in the best of all possible lives, that beginning and that end are the same: in poem after poem I encountered words that mark the first something made out of language that we hear as children repeated night after night, like a refrain: */
+position: absolute;
+width: 1279px;
+height: 150px;
+left: 117px;
+top: 812px;
+
+font-family: 'Trade Gothic Next LT Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #262626;
+}
+
+.text6 {
+/* I love you. */
+position: absolute;
+width: 1311px;
+height: 313px;
+left: 95px;
+top: 1021px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 550px;
+line-height: 75%;
+/* or 412px */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #262626;
+}
+
+.text7 {
+/* And I encountered words that mark the last something made out of language that we hope to hear on earth: I love you. I am here with you. Don’t be afraid. Go to sleep now. I am here with you. Don’t be afraid. Go to sleep now. But it is growing damp and I must go in. Memory’s fog is rising. */
+position: absolute;
+width: 1311px;
+height: 176px;
+left: 95px;
+top: 1470px;
+
+font-family: 'Trade Gothic Next LT Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 150%;
+/* or 38px */
+
+letter-spacing: 0.05em;
+
+color: #262626;
+}
+
+.text8 {
+/* Among Emily Dickinson’s last words (in a letter). A woman whom everyone thought of as shut-in, homebound, cloistered, spoke as if she had been out, exploring the earth, her whole life, and it was finally time to go in. */
+position: absolute;
+width: 1314px;
+height: 640px;
+left: 93px;
+top: 1650px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 85%;
+/* or 128px */
+
+text-align: justify;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #262626;
+}
+
+.text9 {
+/* And it was. */
+position: absolute;
+width: 892px;
+height: 287px;
+left: 304px;
+top: 2333px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 450px;
+line-height: 86%;
+/* identical to box height, or 387px */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #262626;
 }

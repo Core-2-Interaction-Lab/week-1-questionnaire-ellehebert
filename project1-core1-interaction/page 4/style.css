@@ -18,7 +18,7 @@ body {
     font-size: 60px;
     line-height: 72px;
     letter-spacing: 0.02em;
-    border-style: solid;
+    border: 3px solid #262626;
     border-color: #262626;
     
     color: #262626;
@@ -47,7 +47,7 @@ body {
     font-size: 60px;
     line-height: 72px;
     letter-spacing: 0.02em;
-    border-style: solid;
+    border: 3px solid #262626;
     border-color: #262626;
     
     color: #262626;
@@ -59,203 +59,19 @@ body {
 }
 
 .text1 {
-/* I believe many */
-    position: absolute;
-    width: 682px;
-    height: 207px;
-    left: 95px;
-    top: 237px;
-
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 250px;
-    line-height: 83%;
-    /* or 207px */
-
-    letter-spacing: 0.02em;
-    text-transform: uppercase;
-
-    color: #262626;
-}
-
-.text2 {
-/* fine poems */
-    position: absolute;
-    width: 496px;
-    height: 207px;
-    left: 95px;
-    top: 487px;
-
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 250px;
-    line-height: 83%;
-    /* or 207px */
-
-    letter-spacing: 0.02em;
-    text-transform: uppercase;
-
-    color: #262626;
-}
-
-.text3 {
-/* begin with ideas. */
-    position: absolute;
-    width: 816px;
-    height: 207px;
-    left: 266px;
-    top: 741px;
-
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 250px;
-    line-height: 83%;
-    /* or 207px */
-
-    letter-spacing: 0.02em;
-    text-transform: uppercase;
-
-    color: #262626;
-}
-
-.text4 {
-/* but if you tell */
-    position: absolute;
-    width: 608px;
-    height: 207px;
-    left: 476px;
-    top: 991px;
-
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 250px;
-    line-height: 83%;
-    /* or 207px */
-
-    text-transform: uppercase;
-
-    color: #262626;
-}
-
-.text5 {
-/* too many */
-    position: absolute;
-    width: 419px;
-    height: 207px;
-    left: 189px;
-    top: 1235px;
-
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 250px;
-    line-height: 83%;
-    /* or 207px */
-
-    text-transform: uppercase;
-
-    color: #262626;
-}
-
-.text6 {
-/* faces this, */
-    position: absolute;
-    width: 467px;
-    height: 207px;
-    left: 97px;
-    top: 1487px;
-
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 250px;
-    line-height: 83%;
-    /* or 207px */
-
-    text-transform: uppercase;
-
-    color: #262626;
-}
-
-.text7 {
-/* or tell it too loudly, */
-    position: absolute;
-    width: 1245px;
-    height: 207px;
-    left: 157px;
-    top: 1749px;
-
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 250px;
-    line-height: 83%;
-    /* or 207px */
-
-    text-transform: uppercase;
-
-    color: #262626;
-}
-
-.text8 {
-/* they will get the wrong idea. */
-    position: absolute;
-    width: 1305px;
-    height: 226px;
-    left: 97px;
-    top: 1995px;
-
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 250px;
-    line-height: 90.5%;
-    /* or 226px */
-
-    text-transform: uppercase;
-
-    color: #262626;
-}
-
-.text9 {
-/* Now here is something really interesting (to me), something you can use at a standing-up-only party when everyone is tired of hearing there are one million three-thousand-two-hundred-ninety-five words used by the Esimo for snow. This is what Ezra Pound learned from Ernest Fenollosa: Some languages are so constructed—English among them—that we each only really speak one sentence in our lifetime. That sentence begins with your first words, toddling around the kitchen, and ends with your last words right before you step into the limousine, or in a nursing home, the night-duty attendant vaguely on hand. Or, if you are blessed, they are heard by someone who knows you and loves you and will be sorry to hear the sentence end. When I told Mr. Angel about the lifelong sentence, he said: “That’s a lot of semicolons!” he is absolutely right; the sentence would be unwieldy and awkward and resemble the novel of a savant, but the next time you use a semicolon (which, by the way, is the least-used mark of punctuation in all of poetry) you should stop and be thankful that there exists this little thing, invented by a human being—an Italian as a matter of fact—that allows us to go on and keep on connecting speech that for all apparent purposes is unrelated. You might say a poem is a semicolon, a living semicolon, (large semicolon on page) what connects the first line to the last, the act of keeping together that whose nature is to fly apart. Between the first and last lines there exists—a poem—and if it were not for the poem that intervenes, */
-    position: absolute;
-    width: 927px;
-    height: 798px;
-    left: 276px;
-    top: 2256px;
-
-    font-family: 'Trade Gothic Next LT Pro';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 150%;
-    /* or 38px */
-
-    text-align: justify;
-    letter-spacing: 0.05em;
-
-    color: #262626;
-}
-
-.text10 {
-/* the first and last lines of a poem would not speak to each other. */
+    /* Roland Barthes suggests there are three ways to finish any piece of writing: */
 position: absolute;
-width: 927px;
-height: 236px;
-left: 276px;
-top: 3130px;
+width: 1305px;
+height: 51px;
+left: 97px;
+top: 253px;
 
 font-family: 'Bee Four';
 font-style: normal;
 font-weight: 400;
-font-size: 100px;
+font-size: 60px;
 line-height: 85%;
-/* or 85px */
+/* identical to box height, or 51px */
 
 text-align: justify;
 letter-spacing: 0.01em;
@@ -263,43 +79,171 @@ letter-spacing: 0.01em;
 color: #262626;
 }
 
-.text11 {
-/* You might say a poem is a semicolon, a living semicolon, (large semicolon on page) what connects the first line to the last, the act of keeping together that whose nature is to fly apart. Between the first and last lines there exists—a poem—and if it were not for the poem that intervenes, */
-    position: absolute;
-    width: 927px;
-    height: 152px;
-    left: 276px;
-    top: 3346px;
+.text2 {
+/* the ending will have the last word or the ending will be silent or the ending will execute a pirouette, do something unexpectedly incongruent. */
+position: absolute;
+width: 1306px;
+height: 512px;
+left: 92px;
+top: 343px;
 
-    font-family: 'Trade Gothic Next LT Pro';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 150%;
-    /* or 38px */
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 85%;
+/* or 128px */
 
-    text-align: justify;
-    letter-spacing: 0.05em;
+text-align: justify;
+text-transform: uppercase;
 
-    color: #262626;
+color: #262626;
 }
 
-.text12 {
-/* not you to them or they to you.  */
-    position: absolute;
-    width: 927px;
-    height: 138px;
-    left: 276px;
-    top: 3548px;
+.text3 {
+/* Gaston Bachelard says the single most succinct and astonishing thing: We begin in admiration and we end by organizing our disappointment. The moment of admiration is the experience of something unfiltered, vital and fresh—it could also be horror—and the moment of organization is both the onset of disappointment and its signification; the least we can do is dignify our knowingness, the loss of some vitality through familiarization, by admiring not the thing itself but how we can organize it, */
+position: absolute;
+width: 931px;
+height: 150px;
+left: 284px;
+top: 904px;
 
-    font-family: 'Bee Four';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 100px;
-    line-height: 89.5%;
-    /* or 90px */
+font-family: 'Trade Gothic Next LT Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
 
-    text-align: justify;
+text-align: justify;
+letter-spacing: 0.05em;
 
-    color: #262626;
+color: #262626;
+}
+
+.text4 {
+/* think about it. */
+position: absolute;
+width: 1364px;
+height: 149px;
+left: 68px;
+top: 1100px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 550px;
+line-height: 78%;
+/* or 429px */
+
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: uppercase;
+
+color: #262626;
+}
+
+.text5 {
+/* I am afraid there is no way around this. It is the one try inevitable thing. And if you believe that, then you are conceding that in the beginning was the act, not the word. The painter Cy Twombly quotes John Crowe Ransom, on a scrap of paper: */
+position: absolute;
+width: 927px;
+height: 90px;
+left: 288px;
+top: 1988px;
+
+font-family: 'Trade Gothic Next LT Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #262626;
+}
+
+.text6 {
+/* “The image cannot be disposed of a primordial freshness which ideas can never claim.” */
+position: absolute;
+width: 1312px;
+height: 256px;
+left: 94px;
+top: 2130px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 85%;
+/* or 128px */
+
+text-align: justify;
+text-transform: uppercase;
+
+color: #262626;
+}
+
+.text7 {
+/* Easy and appropriate thing for a painter to say. Cy Twombly uses text in some of his drawings and paintings, usually poetry, usually Dante. Many men and women have written long essays and lectures on the ideas they see expressed in Twombly’s work. Bachelard’s sentence simply says this: origins (beginnings) have consequences (endings). The poem is the consequence of its origins. Give me the fruit and I will take from it a seed and plant it and watch grow the tree from which it fell. Barbara Henstein Smith, in her book Poetic Closure: A Study of How Poems End, says this: “Perhaps all we can say, and even this may be too much, is that varying degrees or states of tension seem to be involved in all our experiences, and that the most gratifying ones are those in which whatever tensions are created are also released. Or, to use another familiar set of terms, an experience is gratifying to the extent that those expectations that are aroused are also fulfilled.” But there is no book I know of on the subject of how poems begin. */
+position: absolute;
+width: 927px;
+height: 390px;
+left: 287px;
+top: 2429px;
+
+font-family: 'Trade Gothic Next LT Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #262626;
+}
+
+.text8 {
+/* How can the origin be traced when there is no form or shape that precedes it to trace? */
+position: absolute;
+width: 1306px;
+height: 224px;
+left: 97px;
+top: 2759px;
+
+font-family: 'Bee Four';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 80%;
+/* or 120px */
+
+text-align: justify;
+text-transform: uppercase;
+
+color: #262626;
+}
+
+.text9 {
+/* It is exactly like tracing the moment of the big bang—we can go back to a nanosecond before the beginning, before the universe burst into being, but we can’t go back to the precise beginning because that would precede knowledge, and we can’t “know” anything before “knowing” itself was born.  */
+position: absolute;
+width: 930px;
+height: 90px;
+left: 285px;
+top: 3044px;
+
+font-family: 'Trade Gothic Next LT Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+text-align: justify;
+letter-spacing: 0.05em;
+
+color: #262626;
 }
