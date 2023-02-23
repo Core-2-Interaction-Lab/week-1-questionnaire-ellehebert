@@ -1,22 +1,23 @@
 body {
     font-family: 'Crimson Pro', serif;
     font-size: 12px;
+    margin: 80px;
   }
   
-  .wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  .flex-container {
+    display: inline-block;
+    flex-wrap: nowrap;
   }
+  
   
   h1 {
     font-size: 12px;
     font-weight: 600;
-    margin: 0;
+    margin-top: 20px;
   }
   
   .entries {
-    margin-bottom: 60px;
+    margin-bottom: 100px;
   }
   
   .heading {
@@ -24,15 +25,15 @@ body {
   }
   
   .chapter {
-    letter-spacing: 10px;
+    margin-bottom: 20px;
   }
   
   p {
-    margin: 0;
+    margin-top: 20px;
   }
   
   .page {
-    margin-top: 10px;
+    margin-top: 20px;
   }
   
   

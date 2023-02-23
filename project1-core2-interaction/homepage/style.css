@@ -1,0 +1,105 @@
+body {
+    background-color: #D4B996;
+    margin-top: 130px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+}
+
+
+.nav {
+    background-color: #D4B996; 
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.nav li {
+    display: inline-block;
+    padding: 11.1px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80%;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    border-style: solid;
+    border-color: #B6634A;
+    border-width: 3px;
+    margin-left: -3px;
+    margin-right: -3px;
+    margin-bottom: -3px;
+}
+
+
+#p1 {color:#B6634A;}
+#p2 {color:#D4B996;}
+
+a:link { text-decoration: none; color:#B6634A;}
+a:active { text-decoration: none; color:#B6634A;}
+a:visited { text-decoration: none; color:#B6634A;}
+
+
+
+.title {
+    background-color: D4B996; 
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.title li {
+    display: inline-block;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 86px;
+    padding-right: 86px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 450px;
+    line-height: 80%;
+    text-transform: uppercase;
+    color: #B6634A;
+    margin-left: -3px;
+    margin-top: -16px;
+    margin-right: -3px;
+    margin-bottom: -3px;
+    border-style: solid;
+    border-color: #B6634A;
+    border-width: 3px;
+}
+
+
+.nav2 {
+    background-color: #D4B996; 
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.nav2 li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px;
+    padding-left: 21.5px;
+    padding-right: 13px ;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80%;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    border-style: solid;
+    border-color: #B6634A;
+    border-width: 3px;
+    margin-left: -3px;
+    margin-right: -3px;
+    margin-bottom: -3px;
+    margin-top: -16px;
+}

@@ -1,0 +1,325 @@
+body {
+    background-color: #707378;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+}
+
+
+#p1 {color:#ABC5DE;}
+#p2 {color:#707378;}
+#p3 {color:#ABC5DE; font-size: 50px;}
+#p4 {color:#ABC5DE; font-size: 400px; text-transform: uppercase; }
+#p5 {color:#ABC5DE;font-family: 'Trade Gothic Next LT Pro'; font-style: normal; font-weight: 400; font-size: 20px; line-height: 150%;}
+#p6 {color:#ABC5DE; font-size: 120px; text-transform: uppercase;}
+
+a:link { text-decoration: none; color:#ABC5DE;}
+a:active { text-decoration: none; color:#ABC5DE;}
+a:visited { text-decoration: none; color:#ABC5DE;}
+
+
+.nav1 {
+    background-color: #707378; 
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.nav1 li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px;
+    padding-left: 21.5px;
+    padding-right: 21.5px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80%;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    border-style: solid;
+    border-color: #ABC5DE;
+    border-width: 3px;
+    margin-left: -3px;
+    margin-right: -3px;
+    margin-bottom: -3px;
+    margin-top: -16px;
+}
+
+
+.section1 {
+    list-style-type: none;
+    text-align: center;
+}
+
+
+.section1 {
+    display: inline-block;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 85%;
+    text-align: justify;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #ABC5DE;    
+    margin-left: 0px;
+    margin-top: -16px;
+    margin-right: 0px;
+    margin-bottom: -3px;
+    border-style: solid;
+    border-color: #ABC5DE;
+    border-width: 3px;
+}
+
+
+.section2 {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.section2 {
+    display: inline-block;
+    padding-top: 140px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 85%;
+    text-align: justify;
+    letter-spacing: 0.02em;
+    color: #ABC5DE;  
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: -3px;
+    border-style: solid;
+    border-color: #ABC5DE;
+    border-width: 3px;
+}
+
+
+.section3 {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.section3 {
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 45%;
+    text-align: justify;
+    letter-spacing: 1px;
+    color: #ABC5DE;  
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: -3px;
+    border-style: solid;
+    border-color: #ABC5DE;
+    border-width: 3px;
+}
+
+
+.section4 {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.section4 {
+    display: inline-block;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 45%;
+    text-align: justify;
+    letter-spacing: 1px;
+    color: #ABC5DE;  
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: -3px;
+    border-style: solid;
+    border-color: #ABC5DE;
+    border-width: 3px;
+}
+
+
+.section5 {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.section5 {
+    display: inline-block;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 85%;
+    text-align: justify;
+    letter-spacing: 0.02em;
+    color: #ABC5DE;  
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: -3px;
+    border-style: solid;
+    border-color: #ABC5DE;
+    border-width: 3px;
+}
+
+.section6 {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.section6 {
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 85%;
+    text-align: justify;
+    letter-spacing: 0.02em;
+    color: #ABC5DE;  
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: -3px;
+    border-style: solid;
+    border-color: #ABC5DE;
+    border-width: 3px;
+}
+
+.section7 {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.section7 {
+    display: inline-block;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 51.5px;
+    padding-right: 40px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 265%;
+    text-align: justify;
+    letter-spacing: -7px;
+    color: #ABC5DE;  
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: -3px;
+    border-style: solid;
+    border-color: #ABC5DE;
+    border-width: 3px;
+}
+
+.section8 {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.section8 {
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 85%;
+    text-align: justify;
+    letter-spacing: 0.02em;
+    color: #ABC5DE;  
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: -3px;
+    border-style: solid;
+    border-color: #ABC5DE;
+    border-width: 3px;
+}
+
+.nav2 {
+    background-color: #707378; 
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.nav2 li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px;
+    padding-left: 22px;
+    padding-right: 22px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80%;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    border-style: solid;
+    border-color: #ABC5DE;
+    border-width: 3px;
+    margin-left: -3px;
+    margin-right: -3px;
+    margin-bottom: -3px;
+    margin-top: -16px;
+}

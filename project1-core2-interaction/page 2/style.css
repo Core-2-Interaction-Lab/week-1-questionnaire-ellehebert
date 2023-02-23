@@ -1,0 +1,204 @@
+body {
+    background-color: #6B4646;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+}
+
+
+#p1 {color:#D6D2E8;}
+#p2 {color:#6B4646;}
+#p3 {color:#E7CDCB; font-size: 50px;     line-height: 95%;}
+#p4 {color:#E7CDCB; font-size: 400px; text-transform: uppercase; }
+#p5 {color:#E7CDCB;font-family: 'Trade Gothic Next LT Pro'; font-style: normal; font-weight: 400; font-size: 20px; line-height: 150%;}
+#p6 {color:#E7CDCB; font-size: 120px; text-transform: uppercase;  line-height: 85%;}
+
+a:link { text-decoration: none; color:#E7CDCB;}
+a:active { text-decoration: none; color:#E7CDCB;}
+a:visited { text-decoration: none; color:#E7CDCB;}
+
+
+.nav1 {
+    background-color: #6B4646; 
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.nav1 li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px;
+    padding-left: 21.5px;
+    padding-right: 21.5px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80%;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    border-style: solid;
+    border-color: #E7CDCB;
+    border-width: 3px;
+    margin-left: -3px;
+    margin-right: -3px;
+    margin-bottom: -3px;
+    margin-top: -16px;
+}
+
+
+.section1 {
+    list-style-type: none;
+    text-align: center;
+}
+
+
+.section1 {
+    display: inline-block;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 85%;
+    text-align: justify;
+    letter-spacing: 0.02em;
+    color: #E7CDCB;    
+    margin-left: 0px;
+    margin-top: -16px;
+    margin-right: 0px;
+    margin-bottom: -3px;
+    border-style: solid;
+    border-color: #E7CDCB;
+    border-width: 3px;
+}
+
+
+.section2 {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.section2 {
+    display: inline-block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 85%;
+    text-align: justify;
+    letter-spacing: 0.02em;
+    color: #E7CDCB;  
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: -3px;
+    border-style: solid;
+    border-color: #E7CDCB;
+    border-width: 3px;
+}
+
+
+.section3 {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.section3 {
+    display: inline-block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 85%;
+    text-align: justify;
+    letter-spacing: 0.02em;
+    color: #E7CDCB;  
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: -3px;
+    border-style: solid;
+    border-color: #E7CDCB;
+    border-width: 3px;
+}
+
+
+.section4 {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.section4 {
+    display: inline-block;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 45%;
+    text-align: justify;
+    letter-spacing: 1px;
+    color: #E7CDCB;  
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: -3px;
+    border-style: solid;
+    border-color: #E7CDCB;
+    border-width: 3px;
+}
+
+
+.nav2 {
+    background-color: #6B4646; 
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+
+.nav2 li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px;
+    padding-left: 22.3px;
+    padding-right: 22.3px;
+    font-family: 'Bee Four';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80%;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    border-style: solid;
+    border-color: #E7CDCB;
+    border-width: 3px;
+    margin-left: -3px;
+    margin-right: -3px;
+    margin-bottom: -3px;
+    margin-top: -16px;
+}
