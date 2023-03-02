@@ -6,6 +6,16 @@ body {
     margin-right: 100px;
 }
 
+@media (max-width: 500px) {
+	#p2 {border-style: solid;
+        border-color: #D4B996;
+        border-width: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        font-size: 10px; }
+}
+
 
 .nav {
     background-color: #D4B996; 
@@ -34,8 +44,14 @@ body {
 }
 
 
-#p1 {color:#B6634A;}
-#p2 {color:#D4B996;}
+#p1 {
+    color:#B6634A;
+}
+
+#p2 {
+    color:#D4B996;
+
+}
 
 a:link { text-decoration: none; color:#B6634A;}
 a:active { text-decoration: none; color:#B6634A;}

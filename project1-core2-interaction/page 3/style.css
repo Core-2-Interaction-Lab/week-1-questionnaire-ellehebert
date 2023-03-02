@@ -5,7 +5,15 @@ body {
     margin-bottom: 100px;
     margin-right: 100px;
 }
-
+@media (max-width: 500px) {
+	#p2 {border-style: solid;
+        border-color: #416D60;
+        border-width: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        font-size: 10px; }
+}
 
 #p1 {color:#D6D2E8;}
 #p2 {color:#416D60;}
