@@ -28,7 +28,7 @@ body {
 .nav li {
     display: inline-block;
     padding: 11.1px;
-    font-family: 'Bee Four';
+    font-family: 'bee';
     font-style: normal;
     font-weight: 400;
     font-size: 60px;
@@ -73,7 +73,7 @@ a:visited { text-decoration: none; color:#B6634A;}
     padding-bottom: 20px;
     padding-left: 86px;
     padding-right: 86px;
-    font-family: 'Bee Four';
+    font-family: 'bee';
     font-style: normal;
     font-weight: 400;
     font-size: 450px;
@@ -104,7 +104,7 @@ a:visited { text-decoration: none; color:#B6634A;}
     padding: 10px;
     padding-left: 21.5px;
     padding-right: 13px ;
-    font-family: 'Bee Four';
+    font-family: 'bee';
     font-style: normal;
     font-weight: 400;
     font-size: 60px;
