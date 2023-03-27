@@ -1,29 +1,303 @@
+body {
+  background-color: #F5F5F5;
+  margin-top: 75px;
+  margin-left: 75px;
+  margin-bottom: 75px;
+  margin-right: 75px;
+}
+  
+.item1 { 
+  grid-area: item1; 
+  font-family: "rift", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 20px;
+  text-align: left;
+  text-transform: uppercase;
+  color: #000000;    
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
 
+.item2 { 
+  grid-area: item2; 
+  color: #000000;    
+  font-family: "rift", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 20px;
+  text-align: left;
+  text-transform: uppercase;   
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px; 
+}
 
-.item1 { grid-area: header; }
-.item2 { grid-area: menu; }
-.item3 { grid-area: main; }
-.item4 { grid-area: footer; }
-.item5 { grid-area: footer2; }
+.item3 { 
+  grid-area: item3; 
+  color: #000000;    
+  font-family: "rift", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 20px;
+  text-align: left;
+  text-transform: uppercase;  
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
 
-.grid-container {
+.item4 { 
+  grid-area: item4; 
+  color: #000000;    
+  font-family: "rift", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 20px;
+  text-align: left;
+  text-transform: uppercase;  
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-right: 0px;
+  padding-bottom: 5px;
+}
+
+.item5 { 
+  grid-area: item5; 
+  color: #000000;    
+  font-family: "rift", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 60px;
+  text-transform: uppercase; 
+  padding-left: 15px;
+  padding-right: 15px; 
+}
+
+.item6 { 
+  grid-area: item6; 
+  color: hsl(0, 0%, 0%);    
+  font-family: "rift", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 155px;
+  line-height: 100%;
+  text-align: left;
+  text-transform: uppercase;  
+  padding-left: 20px;
+  padding-right: 15px;
+}
+
+.item7 { 
+  grid-area: item7; 
+  color: #000000;    
+  font-family: "rift", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  text-align: left;
+  line-height: 120%;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.item8 { 
+  grid-area: item8; 
+  color: #000000;     
+  font-family: "rift", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  text-align: left;
+  line-height: 120%;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.item9 { 
+  grid-area: item9; 
+  color: #000000;     
+  font-family: "rift", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 60px;
+  text-align: center;
+  text-transform: uppercase;  
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.item10 { 
+  grid-area: item10; 
+  color: #000000;     
+  font-family: "rift", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.item11 { 
+  grid-area: item11; 
+  color: #000000;    
+  font-family: "rift", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.item12 { 
+  grid-area: item12; 
+  color: #000000;    
+  font-family: "rift", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.item13 { 
+  grid-area: item13; 
+  color: #000000;     
+  font-family: "rift", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.item14 { 
+  grid-area: item14; 
+  color: #000000;    
+  font-family: "rift", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 60px;
+  text-align: center;
+  text-transform: uppercase;  
+}
+
+.item15 { 
+  grid-area: item15; 
+  color: #000000;    
+  font-family: "rift", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  text-align: left;
+  line-height: 120%;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px; 
+}
+
+.item16 { 
+  grid-area: item16; 
+  color: #000000;     
+  font-family: "rift", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  text-align: left;
+  line-height: 120%;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.item17 { 
+  grid-area: item17; 
+  font-family: "rift", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;    
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.grid-container1 {
+display: grid;
+grid-template-areas:
+  'item1 item1 item2 item2 item3 item4';
+gap: 3px;
+background-color: #000000;
+padding: 3px;
+margin-bottom: -3px;
+}
+
+.grid-container1 > div {
+background-color: #F5F5F5;
+}
+
+.grid-container2 {
   display: grid;
   grid-template-areas:
-    'header header header header header header'
-    'menu main main main main main'
-    'menu footer footer footer footer footer'
-    'footer2 footer2 footer2 footer2 footer2 footer2';
-  gap: 10px;
-  background-color: #FFFFFF;
-  padding: 10px;
-}
-
-.grid-container > div {
-  background-color: #FFFFFF;
-  text-align: center;
-  padding: 20px 0;
-  font-size: 30px;
-}
+    'item5 item5 item5 item5 item5 item6'
+    'item5 item5 item5 item5 item5 item7'
+    'item8 item8 item9 item9 item9 item9'
+    'item10 item10 item10 item10 item10 item10'
+    'item11 item11 item12 item12 item13 item13'
+    'item14 item14 item14 item14 item14 item14'
+    'item15 item15 item15 item15 item15 item15'
+    'item16 item16 item16 item16 item16 item16';
+  gap: 3px;
+  background-color: #000000;
+  padding: 3px;
+  }
+  
+  .grid-container2 > div {
+  background-color: #F5F5F5;
+  }
+  
+.grid-container3 {
+  display: grid;
+  grid-template-areas:
+    'item17 item17 item17 item17 item17 item17';
+  gap: 3px;
+  background-color: #000000;
+  padding: 3px;
+  margin-top: -3px;
+  }
+    
+.grid-container3 > div {
+  background-color: #F5F5F5;
+  }
+  
+a:link { text-decoration: none; color:#4D6676;}
+a:active { text-decoration: none; color:#4D6676;}
+a:visited { text-decoration: none; color:#4D6676;}
 
 
 
