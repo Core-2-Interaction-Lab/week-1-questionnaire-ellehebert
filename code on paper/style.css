@@ -1,19 +1,23 @@
 body {
     margin: 100px;
+    background-color: #ffffff;
 }
 h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 100px;
+    color: rgb(169, 200, 162);
 }
 
 h2 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 50px; ;
+    color: #dbc3e8;
 }
 
 h4 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
+    color: #eecbba;
 }
 
 img {
@@ -23,11 +27,12 @@ img {
 }
 
 table, td {
-    border: 1px solid;
+    border: 1.5px solid;
     padding-left: 5px;
     padding-right: 5px;
     padding-bottom: 5px;
     padding-top: 5px;
     margin-bottom: 45px;
     margin-top: 45px;
+    color: #f4c152;
 }
