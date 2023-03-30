@@ -4,235 +4,273 @@
     "Artist": "Barbara Kruger",
     "Year": 1987,
     "Medium": "Screenprint on vinyl",
-    "Image": "imgs/img-1.jpg"
+    "image": "imgs/1.png"
   
   },
   {
     "Artwork": "Mary Does Laugh",
     "Artist": "Corita Kent",
     "Year": 1964,
-    "Medium": "Serigraph"
+    "Medium": "Serigraph",
+    "image": "imgs/2.png"
   },
   {
     "Artwork": "Do Women Have to be Naked to Get Into the Met. Museum",
     "Artist": "Guerrilla Girls",
     "Year": 2012,
-    "Medium": "Poster"
+    "Medium": "Poster",
+    "image": "imgs/3.png"
   },
   {
     "Artwork": "We Don't Need Another Hero",
     "Artist": "Barbara Kruger",
     "Year": 1987,
-    "Medium": "Screenprint on vinyl"
+    "Medium": "Screenprint on vinyl",
+    "image": "imgs/4.png"
   },
   {
     "Artwork": "King's Dream",
     "Artist": "Corita Kent",
     "Year": 1969,
-    "Medium": "Serigraph"
+    "Medium": "Serigraph",
+    "image": "imgs/5.png"
   },
   {
     "Artwork": "We Must Love One Another",
     "Artist": "Jenny Holzer",
     "Year": 2019,
-    "Medium": "Light projection"
+    "Medium": "Light projection",
+    "image": "imgs/6.png"
   },
   {
     "Artwork": "You Are Not Yourself",
     "Artist": "Barbara Kruger",
     "Year": 1981,
-    "Medium": "Photographic silkscreen on vinyl"
+    "Medium": "Photographic silkscreen on vinyl",
+    "image": "imgs/7.png"
   },
   {
     "Artwork": "Yes People Like Us",
     "Artist": "Corita Kent",
     "Year": 1965,
-    "Medium": "Serigraph"
+    "Medium": "Serigraph",
+    "image": "imgs/8.png"
   },
   {
     "Artwork": "The Advantages of Being a Woman Artist",
     "Artist": "Guerrilla Girls",
     "Year": 1988,
-    "Medium": "Poster"
+    "Medium": "Poster",
+    "image": "imgs/9.png"
   },
   {
     "Artwork": "Dear Lucy",
     "Artist": "Nancy Spero",
     "Year": 1971,
-    "Medium": "Paper"
+    "Medium": "Paper",
+    "image": "imgs/10.png"
   },
   {
     "Artwork": "Protect Me From What I Want",
     "Artist": "Jenny Holzer",
     "Year": 1985,
-    "Medium": "Electronic panel"
+    "Medium": "Electronic panel",
+    "image": "imgs/11.png"
   },
   {
     "Artwork": "Mortality, from The End: A Meditation on Death and Extinction",
     "Artist": "Judy Chicago",
     "Year": 2015,
-    "Medium": "Paint on black glass"
+    "Medium": "Paint on black glass",
+    "image": "imgs/12.png"
   },
   {
     "Artwork": "The US Senate is More Progressive Than Hollywood",
     "Artist": "Guerrilla Girls",
     "Year": 2019,
-    "Medium": "Poster"
+    "Medium": "Poster",
+    "image": "imgs/13.png"
   },
   {
     "Artwork": "Your Body is a Battleground",
     "Artist": "Barbara Kruger",
     "Year": 1989,
-    "Medium": "Photographic silkscreen on vinyl"
+    "Medium": "Photographic silkscreen on vinyl",
+    "image": "imgs/14.png"
   },
   {
     "Artwork": "That They May Have Life",
     "Artist": "Corita Kent",
     "Year": 1964,
-    "Medium": "Serigraph"
+    "Medium": "Serigraph",
+    "image": "imgs/15.png"
   },
   {
     "Artwork": "Augusta Savage",
     "Artist": "Kara Walker",
     "Year": 2010,
-    "Medium": "Ink transfer on paper"
+    "Medium": "Ink transfer on paper",
+    "image": "imgs/16.png"
   },
   {
     "Artwork": "All I Am is Impulse and Longing",
     "Artist": "Jenny Holzer",
     "Year": 2003,
-    "Medium": "Light projection"
+    "Medium": "Light projection",
+    "image": "imgs/17.png"
   },
   {
     "Artwork": "You're Seeing Less Than Half the Picture",
     "Artist": "Guerrilla Girls",
     "Year": 1989,
-    "Medium": "Poster"
+    "Medium": "Poster",
+    "image": "imgs/18.png"
   },
   {
     "Artwork": "With You I Want to Live",
     "Artist": "Tracey Emin",
     "Year": 2008,
-    "Medium": "Neon Sign"
+    "Medium": "Neon Sign",
+    "image": "imgs/19.png"
   },
   {
     "Artwork": "When Are You Gonna Get Over That?",
     "Artist": "Kara Walker",
     "Year": 2016,
-    "Medium": "Paint marker"
+    "Medium": "Paint marker",
+    "image": "imgs/20.png"
   },
   {
     "Artwork": "New Hope",
     "Artist": "Corita Kent",
     "Year": 1966,
-    "Medium": "Serigraph"
+    "Medium": "Serigraph",
+    "image": "imgs/21.png"
   },
   {
     "Artwork": "Good and Evil",
     "Artist": "Jenny Holzer",
     "Year": 1884,
-    "Medium": "Electronic panel"
+    "Medium": "Electronic panel",
+    "image": "imgs/22.png"
   },
   {
     "Artwork": "Thinking of You",
     "Artist": "Barbara Kruger",
     "Year": 1999,
-    "Medium": "Screenprint on vinyl"
+    "Medium": "Screenprint on vinyl",
+    "image": "imgs/23.png"
   },
   {
     "Artwork": "How Many Women Had One-Person Exhibitions at NYC Museums Last Year",
     "Artist": "Guerrilla Girls",
     "Year": 1985,
-    "Medium": "Poster"
+    "Medium": "Poster",
+    "image": "imgs/24.png"
   },
   {
     "Artwork": "Tomorrow the Stars",
     "Artist": "Corita Kent",
     "Year": 1966,
-    "Medium": "Serigraph"
+    "Medium": "Serigraph",
+    "image": "imgs/25.png"
   },
   {
     "Artwork": "Don’t Tell Me Where This is Going",
     "Artist": "Nora Turato",
     "Year": 2021,
-    "Medium": "Vitreous enamel on steel"
+    "Medium": "Vitreous enamel on steel",
+    "image": "imgs/26.png"
   },
   {
     "Artwork": "It is Guns",
     "Artist": "Jenny Holzer",
     "Year": 2018,
-    "Medium": "Billboard"
+    "Medium": "Billboard",
+    "image": "imgs/27.png"
   },
   {
     "Artwork": "Apologia #1",
     "Artist": "Betty Tompkins",
     "Year": 2018,
-    "Medium": "Paint on image"
+    "Medium": "Paint on image",
+    "image": "imgs/28.png"
   },
   {
     "Artwork": "It's Kinda Funny How I Keep Needing Money All the Time",
     "Artist": "Nora Turato",
     "Year": 2019,
-    "Medium": "Billboard"
+    "Medium": "Billboard",
+    "image": "imgs/29.png"
   },
   {
     "Artwork": "The Cry That Will Be Heard",
     "Artist": "Corita Kent",
     "Year": 1969,
-    "Medium": "Serigraph"
+    "Medium": "Serigraph",
+    "image": "imgs/30.png"
   },
   {
     "Artwork": "Hate and Power Can be a Terrible Thing",
     "Artist": "Tracey Emin",
     "Year": 2004,
-    "Medium": "Textiles"
+    "Medium": "Textiles",
+    "image": "imgs/31.png"
   },
   {
     "Artwork": "I Am a Man",
     "Artist": "Jenny Holzer",
     "Year": 1987,
-    "Medium": "Electronic panel"
+    "Medium": "Electronic panel",
+    "image": "imgs/32.png"
   },
   {
     "Artwork": "Nina Simone",
     "Artist": "Kara Walker",
     "Year": 2010,
-    "Medium": "Ink transfer on paper"
+    "Medium": "Ink transfer on paper",
+    "image": "imgs/33.png"
   },
   {
     "Artwork": "Missing Wo[E]Mans",
     "Artist": "Sharona Franklin",
     "Year": 2018,
-    "Medium": "Paint on image"
+    "Medium": "Paint on image",
+    "image": "imgs/34.png"
   },
   {
     "Artwork": "We Can Make It",
     "Artist": "Cortia Kent",
     "Year": 1966,
-    "Medium": "Serigraph"
+    "Medium": "Serigraph",
+    "image": "imgs/35.png"
   },
   {
     "Artwork": "People Look Like They Are Dancing Before They Love",
     "Artist": "Jenny Holzer",
     "Year": 1984,
-    "Medium": "Text on cast aluminium plaque"
+    "Medium": "Text on cast aluminium plaque",
+    "image": "imgs/36.png"
   },
   {
     "Artwork": "Apologia #3",
     "Artist": "Betty Tompkins",
     "Year": 2018,
-    "Medium": "Paint on image"
+    "Medium": "Paint on image",
+    "image": "imgs/37.png"
   },
   {
     "Artwork": "Thinking of You. I Mean Me. I Mean You.",
     "Artist": "Barbara Kruger",
     "Year": 2022,
-    "Medium": "Immersive Installation Display"
+    "Medium": "Immersive Installation Display",
+    "image": "imgs/38.png"
   },
   {
     "Artwork": "Guerilla Girls' Definition of a Hypocrite",
     "Artist": "Guerrilla Girls",
     "Year": 1990,
-    "Medium": "Poster"
+    "Medium": "Poster",
+    "image": "imgs/39.png"
   }
 ]

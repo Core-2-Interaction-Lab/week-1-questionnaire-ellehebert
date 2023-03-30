@@ -7,9 +7,9 @@ const renderItems = (collection) => {
 		const listItem = document.createElement('li') // Make the `li`
        
         
-        const itemImage = document.createElement('img') // And an image
-		itemImage.src = item.posterImage // Set the `src` attribute from the JSON
-		listItem.appendChild(itemImage) // And add that too
+        // const itemImage = document.createElement('img') // And an image
+		// itemImage.src = item.posterImage // Set the `src` attribute from the JSON
+		// listItem.appendChild(itemImage) // And add that too
 
 		// This can get annoying, so we can use “template literals” instead
 		const itemDetails =
@@ -18,7 +18,7 @@ const renderItems = (collection) => {
 				<p> Artist: ${item.Artist}</p>
                 <p> Year: ${item.Year}</p>
                 <p> Medium: ${item.Medium}</p>
-                <p> Image: ${item.Image}</p>
+                <p> <img src="${item.image}"></p>
 	
 			`
 		listItem.insertAdjacentHTML('beforeend', itemDetails) // Which can we then insert
