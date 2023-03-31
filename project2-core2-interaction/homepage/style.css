@@ -4,11 +4,14 @@ body {
   margin-left: 75px;
   margin-bottom: 75px;
   margin-right: 75px;
+  cursor: cell;
 }
+
 .link {
   color: #000000;    
   text-underline-offset: 3px;
 }
+
 .item1 { 
   grid-area: item1; 
   font-family: "rift", sans-serif;
