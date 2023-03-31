@@ -84,9 +84,9 @@ padding: 3px;
 background-color: #F5F5F5;
 }
 
-a:link { text-decoration: none; color:#4D6676;}
-a:active { text-decoration: none; color:#4D6676;}
-a:visited { text-decoration: none; color:#4D6676;}
+a:link { text-decoration: none; color:#000000;}
+a:active { text-decoration: none; color:#000000;}
+a:visited { text-decoration: none; color:#000000;}
 
 
 
