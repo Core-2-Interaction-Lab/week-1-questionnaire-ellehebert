@@ -1,0 +1,12 @@
+body {
+    margin: 125px;
+}
+
+.grid1 {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+    grid-template-rows: 50px 50px 50px;
+    gap: 0px;
+    border-style: solid 3px #000000;
+    border-radius: 10px;
+  }
