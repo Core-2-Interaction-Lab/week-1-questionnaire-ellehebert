@@ -47,7 +47,8 @@ body {
   display: grid;
   grid-template-areas:
     'item1 item1 item1 item1 item1 item1'
-    'item2 item2 item2 item2 item2 item2';
+    'item2 item2 item2 item2 item2 item2'
+    'collection collection collection collection collection collection';
   gap: 3px;
   background-color: #000000;
   padding: 3px;
@@ -62,9 +63,10 @@ body {
   a:visited { text-decoration: none; color:#000000;}
   
   body {
-    font-family: "rift", sans-serif;
+    font-family: "roboto-condensed", sans-serif;
+    font-weight: 300;
     font-style: normal;
-    font-size: 20px;
+    font-size: 15px;
     cursor: cell;
   }
   
@@ -74,6 +76,10 @@ body {
   
   ul {
     list-style: none;
+    font-family: "roboto-condensed", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
   }
   
   li {
