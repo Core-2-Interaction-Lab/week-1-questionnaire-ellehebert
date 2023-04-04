@@ -20,8 +20,7 @@ const renderItems = (collection) => {
                 <p> Medium: ${item.Medium}</p>
                 <p> <img src="${item.image}"></p>
 				<hr style="width:100%;text-align:left;margin-left:0;border: 1.5px solid black;">
-
-			`
+				`
 		listItem.insertAdjacentHTML('beforeend', itemDetails) // Which can we then insert
 
 		// You can build logic from your data, too
