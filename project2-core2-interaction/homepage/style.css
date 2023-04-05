@@ -28,28 +28,18 @@ body {
   padding-right: 15px;
 }
 
-.item2 { 
-  grid-area: item2; 
+
+
+.item3 { 
+  grid-area: item3; 
   color: #000000;    
   font-family: "rift", sans-serif;
   font-weight: 700;
   font-style: normal;
   font-size: 155px;
-  letter-spacing: -5px;
   text-align: left;
-  text-transform: uppercase;   
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
-.item3 { 
-  grid-area: item3; 
-  color: #000000;    
-  font-family: "roboto-condensed", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  font-size: 15px;
-  text-align: left;
+  letter-spacing: -3px;
+  line-height: 130px;
   padding-left: 15px;
   padding-bottom: 15px;
   padding-top: 15px;
@@ -62,6 +52,7 @@ body {
   font-family: "roboto-condensed", sans-serif;
   font-weight: 300;
   font-style: normal;
+  line-height: 25px;
   font-size: 15px;
   text-align: left;
   padding-left: 15px;
@@ -76,6 +67,7 @@ body {
   font-family: "roboto-condensed", sans-serif;
   font-weight: 300;
   font-style: normal;
+  line-height: 25px;
   font-size: 15px;
   text-align: left;
   padding-left: 15px;
@@ -88,64 +80,91 @@ body {
   grid-area: item6; 
   color: hsl(0, 0%, 0%);    
   font-family: "roboto-condensed", sans-serif;
-  font-weight: 300;
+  font-weight: 700;
   font-style: normal;
   font-size: 15px;
-  line-height: 100%;
-  text-align: left;
+  text-align: center;
   padding-left: 15px;
   padding-bottom: 15px;
+  line-height: 25px;
   padding-top: 15px;
   padding-right: 15px;
+  max-width: 100%;
 }
 
 .item7 { 
   grid-area: item7; 
-  color: #000000;    
+  color: hsl(0, 0%, 0%);    
   font-family: "roboto-condensed", sans-serif;
-  font-weight: 300;
+  font-weight: 700;
   font-style: normal;
   font-size: 15px;
-  text-align: left;
-  line-height: 120%;
+  text-align: center;
   padding-left: 15px;
+  padding-bottom: 15px;
+  line-height: 25px;
   padding-top: 15px;
   padding-right: 15px;
-  padding-bottom: 15px;
+  max-width: 100%;
 }
 
 .item8 { 
   grid-area: item8; 
-  color: #000000;     
+  color: hsl(0, 0%, 0%);    
   font-family: "roboto-condensed", sans-serif;
-  font-weight: 300;
+  font-weight: 700;
   font-style: normal;
   font-size: 15px;
-  text-align: left;
-  line-height: 120%;
+  text-align: center;
   padding-left: 15px;
+  padding-bottom: 15px;
+  line-height: 25px;
   padding-top: 15px;
   padding-right: 15px;
-  padding-bottom: 15px;
+  max-width: 100%;
 }
 
 .item9 { 
   grid-area: item9; 
   color: #000000;     
-  font-family: "roboto-condensed", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  font-size: 15px;
-  text-align: left;
-  line-height: 120%;
+  text-align: center;
   padding-left: 15px;
   padding-top: 15px;
   padding-right: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 15px; 
 }
 
 .item10 { 
   grid-area: item10; 
+  color: #000000;    
+  font-family: "roboto-condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 25px;
+  font-size: 15px;
+  text-align: left;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+}
+
+.item11 { 
+  grid-area: item11; 
+  color: #000000;    
+  font-family: "roboto-condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 25px;
+  font-size: 15px;
+  text-align: left;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+}
+.item12 { 
+  grid-area: item12; 
   color: #000000;     
   font-family: "rift", sans-serif;
   font-weight: 700;
@@ -162,13 +181,14 @@ body {
 display: grid;
 grid-template-areas:
   'item1 item1 item1 item1 item1 item1'
-  'item2 item2 item2 item2 item2 item2'
   'item3 item3 item3 item3 item3 item3'
   'item4 item4 item4 item4 item4 item4'
-  'item5 item5 item6 item6 item7 item7'
-  'item8 item8 item8 item8 item8 item8'
+  'item5 item5 item5 item5 item5 item5'
+  'item6 item6 item7 item7 item8 item8'
+  'item10 item10 item10 item10 item10 item10'
   'item9 item9 item9 item9 item9 item9'
-  'item10 item10 item10 item10 item10 item10';
+  'item11 item11 item11 item11 item11 item11'
+  'item12 item12 item12 item12 item12 item12';
 gap: 3px;
 background-color: #000000;
 padding: 3px;
@@ -202,6 +222,11 @@ a:active { text-decoration: none; color:#000000;}
 a:visited { text-decoration: none; color:#000000;}
 
 
+p {
+  font-weight: 700;
+}
 
 
-
+img {
+  max-block-size: 100%;
+}

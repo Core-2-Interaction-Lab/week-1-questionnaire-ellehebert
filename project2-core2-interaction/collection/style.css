@@ -84,7 +84,7 @@ body {
   }
   
   body * {
-    font-weight: 100;
+    font-weight: 700;
   }
   
   ul {
@@ -100,3 +100,4 @@ body {
     flex-direction: column;
   }
   
+ 

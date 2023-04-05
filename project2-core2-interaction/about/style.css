@@ -41,12 +41,11 @@ body {
   .item3 { 
     grid-area: item3; 
     color: #000000;    
-    font-family: "rift", sans-serif;
-    font-weight: 700;
+    font-family: "roboto-condensed", sans-serif;
+    font-weight: 300;
     font-style: normal;
-    font-size: 20px;
+    font-size: 15px;
     text-align: left;
-    text-transform: uppercase;  
     padding-left: 15px;
     padding-top: 15px;
     padding-right: 15px;
@@ -56,12 +55,11 @@ body {
   .item4 { 
     grid-area: item4; 
     color: #000000;    
-    font-family: "rift", sans-serif;
-    font-weight: 500;
+    font-family: "roboto-condensed", sans-serif;
+    font-weight: 300;
     font-style: normal;
-    font-size: 20px;
+    font-size: 15px;
     text-align: left;
-    text-transform: uppercase;  
     padding-left: 15px;
     padding-top: 15px;
     padding-right: 15px;
@@ -71,18 +69,31 @@ body {
   .item5 { 
     grid-area: item5; 
     color: #000000;    
-    font-family: "rift", sans-serif;
-    font-weight: 500;
+    font-family: "roboto-condensed", sans-serif;
+    font-weight: 300;
     font-style: normal;
-    font-size: 20px;
+    font-size: 15px;
     text-align: left;
-    text-transform: uppercase;   
     padding-left: 15px;
+    line-height: 29px;
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px; 
   }
-
+  .item6 { 
+    grid-area: item6; 
+    color: #000000;    
+    font-family: "roboto-condensed", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    text-align: center;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px; 
+    max-width: 100%;
+  }
   
   .grid-container {
   display: grid;
@@ -90,7 +101,8 @@ body {
     'item1 item1 item1 item1 item1 item1'
     'item2 item2 item2 item2 item2 item2'
     'item3 item3 item3 item3 item3 item3'
-    'item4 item5 item5 item5 item5 item5';
+    'item4 item5 item5 item5 item5 item5'
+    'item6 item6 item6 item6 item6 item6';
   gap: 3px;
   background-color: #000000;
   padding: 3px;
@@ -106,6 +118,9 @@ body {
   
   
   
+  p {
+    font-weight: 700;
+  }
   
   
   
