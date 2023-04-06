@@ -80,20 +80,7 @@ body {
     padding-right: 15px;
     padding-bottom: 15px; 
   }
-  .item6 { 
-    grid-area: item6; 
-    color: #000000;    
-    font-family: "roboto-condensed", sans-serif;
-    font-weight: 300;
-    font-style: normal;
-    font-size: 15px;
-    text-align: center;
-    padding-left: 15px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px; 
-    max-width: 100%;
-  }
+
   
   .grid-container {
   display: grid;
@@ -101,8 +88,7 @@ body {
     'item1 item1 item1 item1 item1 item1'
     'item2 item2 item2 item2 item2 item2'
     'item3 item3 item3 item3 item3 item3'
-    'item4 item5 item5 item5 item5 item5'
-    'item6 item6 item6 item6 item6 item6';
+    'item4 item5 item5 item5 item5 item5';
   gap: 3px;
   background-color: #000000;
   padding: 3px;
