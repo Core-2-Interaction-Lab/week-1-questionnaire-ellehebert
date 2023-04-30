@@ -1,0 +1,72 @@
+body {
+    margin: 80px;
+}
+
+h1 {
+    color: #FF0000;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 53px;
+    /* identical to box height */
+    text-align: center;
+}
+
+h2 {
+    color: #FF0000;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 53px;
+    /* identical to box height */
+    text-align: center;
+}
+
+p {
+    color: #FF0000;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* or 30px */
+    text-align: justify;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 3px solid #FF0000;
+    border-radius: 4px;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: #FF0000;
+    text-align: center;
+    padding: 3px 7px;
+    text-decoration: none;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    /* or 30px */
+    text-align: justify;
+}
+  
+li a:hover {
+    background-color: #FF0000;
+    color: #ffffff;
+}
+
+img {
+    max-width: 100%;
+}
