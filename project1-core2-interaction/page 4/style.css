@@ -5,6 +5,254 @@ body {
     margin-bottom: 100px;
     margin-right: 100px;
 }
+
+a:link { text-decoration: none; color:#EEBFAF;}
+a:active { text-decoration: none; color:#EEBFAF;}
+a:visited { text-decoration: none; color:#EEBFAF;}
+
+.grid-container1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+}
+.item1 {
+    border: solid 3px #EEBFAF;
+    padding: 20px;
+    color: #EEBFAF;
+    font-family: 'bee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 50%;
+    text-transform: uppercase;
+    text-align: left;
+    margin-bottom: -3px;
+    margin-left: -3px;
+}
+
+.item1b {
+    border: solid 3px #EEBFAF;
+    padding: 20px;
+    color: #EEBFAF;
+    font-family: 'bee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 50%;
+    text-transform: uppercase;
+    text-align: right;
+    margin-bottom: -3px;
+    margin-left: -3px;
+}
+
+.grid-container2 {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+}
+.item2 {
+    border: solid 3px #EEBFAF;
+    padding: 20px;
+    color: #EEBFAF;
+    font-family: 'bee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 90%;
+    text-align: left;
+    margin-bottom: -3px;
+    margin-left: -3px;
+}
+
+.grid-container3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+}
+.item3 {
+    border: solid 3px #EEBFAF;
+    padding: 20px;
+    color: #EEBFAF;
+    font-family: "trade-gothic-next-condensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    text-align: justify;
+    margin-bottom: -3px;
+    margin-left: -3px;
+}
+.item3b {
+    border: solid 3px #EEBFAF;
+    padding: 20px;
+    color: #EEBFAF;
+    font-family: 'bee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 150px;
+    line-height: 90%;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: -3px;
+    margin-left: -3px;
+}
+.item3c {
+    border: solid 3px #EEBFAF;
+    padding: 20px;
+    color: #EEBFAF;
+    font-family: "trade-gothic-next-condensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    text-align: justify;
+    margin-bottom: -3px;
+    margin-left: -3px;
+}
+
+.grid-container4 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+}
+.item4 {
+    border: solid 3px #EEBFAF;
+    padding: 20px;
+    color: #EEBFAF;
+    font-family: "trade-gothic-next-condensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    text-align: justify;
+    margin-bottom: -3px;
+    margin-left: -3px;
+}
+.item4b {
+    border: solid 3px #EEBFAF;
+    padding: 20px;
+    color: #EEBFAF;
+    font-family: 'bee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 90%;
+    text-align: justify;
+    margin-bottom: -3px;
+    text-transform: uppercase;
+    margin-left: -3px;
+}
+
+.grid-container5 {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+}
+.item5 {
+    border: solid 3px #EEBFAF;
+    padding: 20px;
+    color: #EEBFAF;
+    font-family: "trade-gothic-next-condensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    text-align: justify;
+    margin-bottom: -3px;
+    margin-left: -3px;
+}
+
+
+
+
+@media (max-width: 480px) {
+    .item1 {
+        font-size: 45px;
+    }
+    .item1b {
+        font-size: 45px;
+        text-align: left;
+    }
+    .item2 {
+        font-size: 50px;
+    }
+    .item3 {
+        font-size: 20px;
+    }
+    .item3b {
+        font-size: 200px;
+    }
+    .item3c {
+        font-size: 20px;
+    }
+    .item4 {
+        font-size: 20px;
+    }
+    .item4b {
+        font-size: 75px;
+    }
+    .item5 {
+        font-size: 20px;
+    }
+
+    
+    
+    
+    .grid-container1 {
+        grid-template-columns: 1fr;
+    }
+    .grid-container2 {
+        grid-template-columns: 1fr;
+    }
+    .grid-container3 {
+        grid-template-columns: 1fr;
+    }
+    .grid-container4 {
+        grid-template-columns: 1fr;
+    }
+    .grid-container5 {
+        grid-template-columns: 1fr;
+    }
+    
+        body {
+            margin-top: 30px;
+            margin-left: 30px;
+            margin-bottom: 30px;
+            margin-right: 30px;
+        }
+      }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 @media (max-width: 500px) {
 	#p2 {border-style: solid;
         border-color: #B25A35;
