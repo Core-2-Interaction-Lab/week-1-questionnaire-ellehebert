@@ -58,12 +58,45 @@ a:visited { text-decoration: none; color:#000000;}
   margin-left: -3px;
 }
 
+.grid-container3 {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+}
+.item3 {
+  border: solid 3px #000000;
+  padding: 20px;
+  color: #000000;    
+  font-family: "field-gothic-xxcondensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 25px;
+  line-height: 80%;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 50px;
+  margin-bottom: -3px;
+  margin-left: -3px;
+}
+ 
+ul {
+  list-style: none;
+  font-family: "field-gothic-xxcondensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 15px;
+}
+
+li {
+  display: flex;
+  flex-direction: column;
+}
+
+
 
 
 
 /*
-
-
 body {
     background-color: #F5F5F5;
     margin-top: 100px;
