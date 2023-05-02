@@ -1,0 +1,24 @@
+body {
+    background-color: #968D00;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    
+}
+
+h1 {
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 700;
+    color:#000000;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 700;
+    color:#000000;
+}
