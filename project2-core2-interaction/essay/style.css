@@ -7,6 +7,86 @@ body {
   cursor: cell;
 }
 
+a:link { text-decoration: none; color:#000000;}
+a:active { text-decoration: none; color:#000000;}
+a:visited { text-decoration: none; color:#000000;}
+
+
+.link {
+  color: #000000;    
+  text-underline-offset: 3px;
+}
+
+
+.grid-container1 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+}
+.item1 {
+  border: solid 3px #000000;
+  padding: 10px;
+  color: #000000;    
+  font-family: "belarius-sans-narrow", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 25px;
+  font-size: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: -3px;
+  margin-left: -3px;
+}
+
+.grid-container2 {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+}
+.item2 {
+  border: solid 3px #000000;
+  padding: 20px;
+  color: #000000;    
+  font-family: "field-gothic-xxcondensed", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 247px;
+  line-height: 80%;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 50px;
+  margin-bottom: -3px;
+  margin-left: -3px;
+}
+
+.grid-container3 {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+}
+.item3 {
+  border: solid 3px #000000;
+  padding: 30px;
+  color: #000000;    
+  font-family: "belarius-sans-narrow", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 25px;
+  line-height: 120%;
+  text-align: justify;
+  margin-bottom: -3px;
+  margin-left: -3px;
+}
+
+
+img {
+  max-width: 45%;
+}
+
+
+
+
+/*
 .item1 { 
   grid-area: item1; 
   font-family: "rift", sans-serif;
