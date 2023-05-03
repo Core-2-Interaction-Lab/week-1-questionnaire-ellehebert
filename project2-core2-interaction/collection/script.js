@@ -19,7 +19,6 @@ const renderItems = (collection) => {
 				<p> Artist: ${item.Artist}</p>
                 <p> Year: ${item.Year}</p>
                 <p> Medium: ${item.Medium}</p>
-				<hr style="width:100%;text-align:left;margin-left:0;border: 1.5px solid black;">
 				`
 		listItem.insertAdjacentHTML('beforeend', itemDetails) // Which can we then insert
 
@@ -40,3 +39,6 @@ fetch('collection.json')
 		// And passes the data to the function, above!
 		renderItems(collection) // In reverse order
 })
+
+
+//<hr style="width:100%;text-align:left;margin-left:0;border: 1.5px solid black;"> 
