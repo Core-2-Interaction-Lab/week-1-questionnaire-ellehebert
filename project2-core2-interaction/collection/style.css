@@ -81,8 +81,9 @@ ul {
   font-weight: 700;
   font-style: normal;
   line-height: 25px;
-  display: wrap;
+  display: flex;
   flex-direction: column;
+  line-height: 50%;
 }
 
 li {
@@ -143,7 +144,7 @@ img {
       margin-right: 30px;
   }
   ul {
-    font-size: 25px;
+    font-size: 15px;
   }
 }
 
