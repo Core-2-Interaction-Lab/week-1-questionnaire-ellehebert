@@ -148,7 +148,7 @@ body {
 .img1 {
     position: absolute;
     top: 100px; /* Change this value as needed */
-    left: 560px; /* Change this value as needed */
+    left: 580px; /* Change this value as needed */
     width: 120%;
 }
 
@@ -169,7 +169,7 @@ body {
 .img4 {
     position: absolute;
     top: 38px; /* Change this value as needed */
-    left: 570px; /* Change this value as needed */
+    left: 580px; /* Change this value as needed */
     width: 120%;
 }
 
