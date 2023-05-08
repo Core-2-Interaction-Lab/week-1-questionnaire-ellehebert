@@ -52,7 +52,7 @@ html {
   .item2 {
     border: solid 3px #FF0000;
     border-radius: 4px;
-    max-width: 95%;
+    max-width: 100%;
     margin-bottom: 40px;
     padding: 5px;
   }
@@ -63,7 +63,8 @@ html {
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
-    margin-left: -3px;
+    margin-top: 65px;
+    margin-left: 25px;
     line-height: 140%;
     margin-bottom: 40px;
     text-align: justify;
@@ -83,6 +84,7 @@ html {
     font-size: 30px;
     text-align: center;
     margin-bottom: 40px;
+    margin-top: 40px;
 }
 
 .grid-container4 {
@@ -310,7 +312,14 @@ body {
     .h1 {
       font-size: 15px;
     }
-
+    .grid-container2 {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    }
+    .item2b {
+        margin: 0;
+        }
 
     body {
         margin-top: 50px;
@@ -322,6 +331,21 @@ body {
     .img  {
         max-width: 30%;
     
+    }
+    .img1 {
+        display: none;
+    }
+    .img2 {
+        display: none;
+    }
+    .img3 {
+        display: none;
+    }
+    .img4 {
+        display: none;
+    }
+    .img5 {
+    display: none;
     }
   }
 

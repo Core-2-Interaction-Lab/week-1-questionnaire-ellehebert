@@ -1,0 +1,14 @@
+:root {
+	--size-1: 25px;
+}
+
+.myChart {
+	font: 30px/1 monospace;
+    color: #FF0000;
+}
+
+/* Always set the map height explicitly to define the size of the div element that contains the map. */
+#myChart {
+	width: 70%;
+  	height: 100vh !important;
+}
