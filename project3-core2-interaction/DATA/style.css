@@ -129,6 +129,7 @@ html {
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
+    line-height: 53px;
     /* identical to box height */
     text-align: center;
 }
@@ -382,7 +383,9 @@ img {
         grid-template-rows: repeat(1, 1fr);
         }
         .item10 {
-            margin: 0;
+            margin-left: 5px;
+            margin-left: 0px;
+            margin-top: 40px;
         }
         #myChart1 {
             width: 60%;
@@ -407,7 +410,7 @@ img {
         }
         
         #myChart3 {
-            width: 60%;
+            width: 0%;
               height: 20vh !important;
               color: #FF0000;
               font-family: 'Roboto Mono';
