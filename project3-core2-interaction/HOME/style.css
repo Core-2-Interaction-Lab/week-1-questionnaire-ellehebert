@@ -148,35 +148,35 @@ body {
 .img1 {
     position: absolute;
     top: 100px; /* Change this value as needed */
-    left: 530px; /* Change this value as needed */
+    left: 560px; /* Change this value as needed */
     width: 120%;
 }
 
 .img2 {
     position: absolute;
     top: 100px; /* Change this value as needed */
-    right: 550px; /* Change this value as needed */
+    right: 580px; /* Change this value as needed */
     width: 120%;
 }
 
 .img3 {
     position: absolute;
     top: 38px; /* Change this value as needed */
-    right: 550px; /* Change this value as needed */
+    right: 580px; /* Change this value as needed */
     width: 70%;
 }
 
 .img4 {
     position: absolute;
     top: 38px; /* Change this value as needed */
-    left: 530px; /* Change this value as needed */
+    left: 570px; /* Change this value as needed */
     width: 120%;
 }
 
 .img5 {
     position: absolute;
     top: 38px; /* Change this value as needed */
-    right: 530px; /* Change this value as needed */
+    right: 560px; /* Change this value as needed */
     width: 120%;
 }
 
