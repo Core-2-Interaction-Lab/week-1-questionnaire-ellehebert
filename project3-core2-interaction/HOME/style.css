@@ -32,9 +32,9 @@ html {
 
 .item1 {
     color: #FF0000;
-    font-family: 'Roboto Mono';
-    font-style: normal;
+    font-family: "roboto-mono", monospace;
     font-weight: 700;
+    font-style: normal;
     font-size: 50px;
     line-height: 53px;
     /* identical to box height */
@@ -59,9 +59,9 @@ html {
 
   .item2b {
     color: #FF0000;
-    font-family: 'Roboto Mono';
-    font-style: normal;
+    font-family: "roboto-mono", monospace;
     font-weight: 400;
+    font-style: normal;
     font-size: 15px;
     margin-top: 75px;
     margin-left: 25px;
@@ -78,9 +78,9 @@ html {
 
 .item3 {
     color: #FF0000;
-    font-family: 'Roboto Mono';
-    font-style: normal;
+    font-family: "roboto-mono", monospace;
     font-weight: 700;
+    font-style: normal;
     font-size: 30px;
     text-align: center;
     margin-bottom: 40px;
@@ -95,9 +95,9 @@ html {
 
   .item4 {
     color: #FF0000;
-    font-family: 'Roboto Mono';
-    font-style: normal;
+    font-family: "roboto-mono", monospace;
     font-weight: 400;
+    font-style: normal;
     font-size: 15px;
     margin-left: -3px;
     line-height: 140%;
@@ -124,9 +124,9 @@ li a {
     text-align: center;
     padding: 3px 7px;
     text-decoration: none;
-    font-family: 'Roboto Mono';
-    font-style: normal;
+    font-family: "roboto-mono", monospace;
     font-weight: 400;
+    font-style: normal;
     font-size: 15px;
     /* or 30px */
     text-align: justify;
