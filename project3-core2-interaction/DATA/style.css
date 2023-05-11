@@ -165,8 +165,10 @@ html {
     font-style: normal;
     font-size: 15px;
     line-height: 140%;
+    padding-left: 100px;
+    padding-right: 100px;
     /* identical to box height */
-    text-align: justify;
+    text-align: left;
     margin-bottom: 40px;
     margin-top: 60px;
 }
@@ -183,9 +185,11 @@ html {
     font-weight: 400;
     font-style: normal;
     font-size: 15px;
+    padding-left: 100px;
+    padding-right: 100px;
     line-height: 140%;
     /* identical to box height */
-    text-align: justify;
+    text-align:left;
     margin-bottom: 40px;
 }
 
@@ -234,7 +238,7 @@ html {
     font-size: 15px;
     line-height: 140%;
     /* identical to box height */
-    text-align: justify;
+    text-align: left;
     margin-top: 220px;
     margin-left: 55px;
     margin-bottom: 40px;
@@ -254,7 +258,9 @@ html {
     font-size: 15px;
     line-height: 140%;
     /* identical to box height */
-    text-align: justify;
+    text-align: left;
+    padding-left: 100px;
+    padding-right: 100px;
     margin-bottom: 40px;
 }
 
@@ -416,5 +422,34 @@ img {
               font-style: normal;
               font-weight: 400;
               font-size: 15px;
+        }
+        .item4 {
+            line-height: normal;
+        }
+        .item2 {
+            font-size: 12px;
+        }
+        .item6 {
+            padding-left: 0px;
+            padding-right: 0px;
+            font-size: 12px;
+        }
+        .item7 {
+            padding-left: 0px;
+            padding-right: 0px;
+            font-size: 12px;
+        }
+        .item9 {
+            line-height: normal;
+        }
+        .item10 {
+            font-size: 12px;
+            padding-bottom: -20px;
+        }
+        .item11 {
+            padding-top: -20px;
+            padding-left: 0px;
+            padding-right: 0px;
+            font-size: 12px;
         }
   }
